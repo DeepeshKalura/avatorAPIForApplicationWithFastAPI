@@ -1,2 +1,5 @@
 # Virtual Environment
 .venv
+
+# Don't Share text editor config files
+.vscode
