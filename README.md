@@ -1,6 +1,9 @@
 # Avator API
 This is an API which will get the avator.
 
+## Description
+This is an API and also serve as client-side rending application which will get the avator from the firebase storage and send the link to the application.
+
 ## Functionality
 - From Firebase storage there are folders names as avator.
 - avator has some categories depends upon the application.
