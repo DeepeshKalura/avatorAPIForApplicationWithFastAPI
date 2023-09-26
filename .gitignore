@@ -6,3 +6,6 @@
 
 # Server cache
 __pycache__
+
+# Firbase Secrets
+serviceAccountKey.json
