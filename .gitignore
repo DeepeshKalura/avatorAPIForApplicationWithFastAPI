@@ -3,3 +3,6 @@
 
 # Don't Share text editor config files
 .vscode
+
+# Server cache
+__pycache__
